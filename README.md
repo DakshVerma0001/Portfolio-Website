@@ -84,5 +84,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## 📧 Contact
-
-[Your Name] - [Link to your LinkedIn or Email]
+Daksh Verma 
+www.linkedin.com/in/daksh-verma-210189248
+vermadaksh353@gmail.com
